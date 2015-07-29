@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="JsForum"
+  id="myeclipse.1435110622796"
+  context-root="/JsForum"
+  j2ee-spec="5.0"
+  archive="JsForum.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
